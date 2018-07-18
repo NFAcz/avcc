@@ -30,7 +30,8 @@
 		"jms/job-queue-bundle": "dev-master", 
 		"pagerfanta/pagerfanta": "dev-master",
 		"wrep/bugsnag-php-symfony": "^1.0",
-                "stripe/stripe-php": "3.*"
+                "stripe/stripe-php": "3.*",
+		"knplabs/knp-snappy-bundle": "*"
 	},
 	"scripts": {
 		"post-install-cmd": [
