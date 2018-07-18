@@ -31,7 +31,8 @@
 		"pagerfanta/pagerfanta": "dev-master",
 		"wrep/bugsnag-php-symfony": "^1.0",
                 "stripe/stripe-php": "3.*",
-		"knplabs/knp-snappy-bundle": "*"
+		"knplabs/knp-snappy-bundle": "*",
+		"knplabs/knp-gaufrette-bundle": "~0.5"
 	},
 	"scripts": {
 		"post-install-cmd": [
